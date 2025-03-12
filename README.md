@@ -6,6 +6,7 @@ Frontend: HTML, CSS, JavaScript, React
 UI/UX: Responsive Design, Tailwind CSS, Bootstrap
 Tools & Workflow: Git, GitHub, WordPress, WooCommerce
 Learning: Ethical Hacking, Backend Development
+
 🎯 **Current Goals**
 Building real-world frontend projects to sharpen my skills
 Learning Git & GitHub for better version control
